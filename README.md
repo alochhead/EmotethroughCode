@@ -1,2 +1,8 @@
-# EmotethroughCode
-This is a workshop to introduce newer coders how to use sensors and neopixels on the Circuit PLayground Express by Adafruit
+# Emote Through Code
+# How does my Arduino ingest and process code? 
+This is a workshop to introduce newer coders to 
+  - Basics of code structure
+    - Vairables
+    - Functions
+    - Sensors
+The example uses the Circuit PLayground Express by Adafruit 
