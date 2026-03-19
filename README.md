@@ -1,8 +1,9 @@
 # Emote Through Code
-# How does my Arduino ingest and process code? 
-This is a workshop to introduce newer coders to 
+# How does my arduino process code? 
+This is a workshop to introduce newer coders to thier arduino 
+
   - Basics of code structure
-    - Vairables
+    - Variables
     - Functions
     - Sensors
    
