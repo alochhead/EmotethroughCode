@@ -11,8 +11,9 @@ This is a workshop to introduce newer coders how to convey thier ideas using cod
 The example uses the **Circuit Playground Express ** by Adafruit 
 
 ## Directions 
-1. STEP 1: Open this doc of code 
-2. STEP 2:  Install the "Adafruit Circuit Playground" by Adafruit library in Arduino IDE
+1. STEP 1: Open this doc of code
+2. STEP 2: Plug in your arduino 
+3. STEP 3:  Install the "Adafruit Circuit Playground" by Adafruit library in Arduino IDE
 
 ## Arduino layout
 
