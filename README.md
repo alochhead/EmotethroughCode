@@ -1,14 +1,23 @@
 # Emote Through Code
-# How does my arduino process code? 
-This is a workshop to introduce newer coders to thier arduino 
 
+This is a workshop to introduce newer coders how to convey thier ideas using code as a material
   - Basics of code structure
     - Variables
+    - Class / Object 
+    - Conditionals
     - Functions
-    - Sensors
    
 
 The example uses the **Circuit Playground Express ** by Adafruit 
 
-<img width="532" height="504" alt="Screenshot 2026-03-19 at 4 27 41 PM" src="https://github.com/user-attachments/assets/6365d31a-325e-476c-ae55-7c428159bbc2" />
+## Directions 
+1. STEP 1: Open this doc of code 
+2. STEP 2:  Install the "Adafruit Circuit Playground" by Adafruit library in Arduino IDE
 
+## Arduino layout
+
+<img width="560" height="518" alt="Screenshot 2026-03-20 at 2 09 25 AM" src="https://github.com/user-attachments/assets/b0992fba-4c89-4a8f-a735-e2ed7dd65108" />
+
+
+STEP 1: Open this doc of code 
+STEP 2:  Install the "Adafruit Circuit Playground" by Adafruit library in Arduino IDE
