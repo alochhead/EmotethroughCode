@@ -4,7 +4,7 @@ Emoting Through Arduino
 Code as a Material   
 
 Your Name:  Amelia
-Your emotion in one word: Nervous
+Your emotion in one word: Happy
 
 */ 
 
